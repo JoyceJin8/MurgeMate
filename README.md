@@ -1,9 +1,10 @@
 # MurgeMate
-Murge Mate is an application developers can use in their everyday life to keep track of merge requests across projects efficiently. Murge Mate removes the need to constantly scan for MR updates across different Gitlab projects or going through hundreds of Gitlab email notifications. It is made in C# and Blazer
-
 We put the U in murge since we want to help U with your MRs!!!
 
+Murge Mate is an application developers can use in their everyday life to keep track of merge requests across projects efficiently. Murge Mate removes the need to constantly scan for MR updates across different Gitlab projects or going through hundreds of Gitlab email notifications.
+
 **Some tech that was used include**
+
 Front End: 
   Blazor - free and open-source web framework that enables developers to create web apps using C# and HTML.
   Radzen - open source component library for Blazor
